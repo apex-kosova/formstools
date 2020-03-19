@@ -1,7 +1,7 @@
 # formstools
 Forms Migration Tools within Oracle APEX
 
-goal: be abble to upload multiple FMX file in one shot in a Forms Migration Project in APEX console.
+goal: be able to upload multiple FMX file in one shot in a Forms Migration Project in APEX console.
 Currently, it's only possible to load one file at a time.
 
 CAUTION: No warrantly !
